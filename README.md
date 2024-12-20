@@ -46,14 +46,14 @@ Initially, this project started as a fork of CustomNameplates that became an ent
 * **/shaguplates**, **/splates** or **/sp** to access the options panel
 
 ## Installation (Vanilla)
-1. Download **[Latest Version](https://github.com/shagu/ShaguPlates/archive/master.zip)**
+1. Download **[Latest Version](https://github.com/xhwsd/ShaguPlates/archive/master.zip)**
 2. Unpack the Zip file
 3. Rename the folder "ShaguPlates-master" to "ShaguPlates"
 4. Copy "ShaguPlates" into Wow-Directory\Interface\AddOns
 5. Restart Wow
 
 ## Installation (The Burning Crusade)
-1. Download **[Latest Version](https://github.com/shagu/ShaguPlates/archive/master.zip)**
+1. Download **[Latest Version](https://github.com/xhwsd/ShaguPlates/archive/master.zip)**
 2. Unpack the Zip file
 3. Rename the folder "ShaguPlates-master" to "ShaguPlates-tbc"
 4. Copy "ShaguPlates-tbc" into Wow-Directory\Interface\AddOns
